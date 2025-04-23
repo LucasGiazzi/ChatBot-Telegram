@@ -1,0 +1,43 @@
+{
+    "proximo_jogo": {
+      "keywords": ["proximo jogo", "próximo jogo", "quando joga", "data do jogo", "proximo game", "próximo confronto"],
+      "resposta": "O próximo confronto da FURIA vai começar apenas no mês de Maio, no campeonato PGL Astana 2025 e IEM Dallas 2025."
+    },
+    "elenco_atual": {
+      "keywords": ["elenco", "jogadores", "quem está jogando", "quem são os jogadores", "time atual", "lineup"],
+      "resposta": "O elenco atual da FURIA é: KSCERATO, yuurih, YEKINDAR, MOLODOY e FalleN. Como reserva temos: chelo e skullz."
+    },
+    "ultimo_jogo": {
+      "keywords": ["último jogo", "ultimo jogo", "como foi o jogo", "resultado anterior", "último confronto"],
+      "resposta": "No último jogo, que foi dia 09/04, a FURIA enfrentou The MongolZ e infelizmente perdeu por 2x0. Bora melhorar, FURIOSO!"
+    },
+    "proximo_torneio": {
+      "keywords": ["próximo torneio","proximo torneio", "próximo campeonato","proximo campeonato", "próximos jogos", "quando é o próximo campeonato"],
+      "resposta": "O próximo torneio da FURIA é o PGL Astana 2025, que vai acontecer em Maio, seguido pela IEM Dallas 2025. Prepare-se, FURIOSO!"
+    },
+    "vitorias": {
+      "keywords": ["vitórias", "campeonatos conquistados", "títulos"],
+      "resposta": "A FURIA tem uma história incrível no Counter-Strike, com destaque para o título do ESL Pro League Season 13 e grandes performances em outros campeonatos internacionais. Vamos continuar ganhando, furioso!"
+    },
+    "jogo_memoravel": {
+      "keywords": ["jogo mais memorável", "melhor partida", "partida histórica"],
+      "resposta": "Um dos jogos mais marcantes foi na ESL Pro League Season 13, onde a FURIA enfrentou a Astralis e fez história com uma vitória épica! É o tipo de jogo que vai ficar na memória dos fãs!"
+    },
+    "estatisticas": {
+      "keywords": ["estatísticas", "K/D dos jogadores", "desempenho dos jogadores"],
+      "resposta": "Os jogadores da FURIA estão sempre jogando no mais alto nível!"
+    },
+    "treinador": {
+      "keywords": ["treinador", "coach", "treinador da FURIA"],
+      "resposta": "Como treinadores da FURIA temos: Hepa e o sidde, dois grandes estrategistas que sabem exatamente como extrair o melhor de cada jogador, fazendo do time um verdadeiro campeão!"
+    },
+    "mudancas_no_elenco": {
+      "keywords": ["mudanças no elenco", "substituições", "novos jogadores"],
+      "resposta": "No momento, a FURIA está com um elenco forte e carne nova no pedaço! YEKINDAR acaba de chegar no time para contribuir com as vitórias!"
+    },
+    "fora_do_tema": {
+      "keywords": ["qualquer outra pergunta", "qualquer outra coisa", "me fala algo diferente", "o que mais você sabe", "me conta outra coisa"],
+      "resposta": "Furioso, não tem como falar de outra coisa! O único foco aqui é a FURIA e o CS:GO. Eu tô tão focado na FURIA que nem consigo pensar em outra coisa agora. Mas, vai lá, me pergunte mais sobre o time! 😎"
+    }
+  }
+  
