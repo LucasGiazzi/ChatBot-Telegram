@@ -88,4 +88,4 @@ Antes de começar, certifique-se de ter os seguintes itens instalados:
 
 ## Licença
 
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT). Sinta-se à vontade para usá-lo e modificá-lo conforme necessário.
+Este projeto é de uso exclusivo para fins educacionais e demonstração de habilidades técnicas.
